@@ -13,11 +13,17 @@ I built a real-time, interactive dashboard tracking 5 Adani Group companies with
 🔹 Adani Gas
 
 ✅ What it covers:
+
 • Live Stock Prices with real-time Price Change %
+
 • Indexed Performance (Base = 100) with key market event annotations
+
 • Stock Return comparison across all entities
+
 • Stock High-Low Range analysis
+
 • Live Volume distribution breakdown
+
 • Closing Price Trends from 2022–2026
 
 🔄 Scheduled Data Refresh:
