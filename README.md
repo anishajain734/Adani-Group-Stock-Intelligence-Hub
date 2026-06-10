@@ -3,9 +3,7 @@ Adani Group Live Stock Dashboard!
 I built a real-time, interactive dashboard tracking 5 Adani Group companies with LIVE data from NSE:
 
 🔹 Adani Energy Solutions
-
 🔹 Adani Green
-
 🔹 Adani Ports
 
 🔹 Adani Power
